@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Karla Guajardo</h1>
+<h1 align="center">Hi 👋, I'm Karla Guajardo</h1>
 <h3 align="center">Soy Ingeniero de Sistemas y Soy Curso de Ingeniero Full Stack</h3>
 
 - 🔭 Soy actualmente trabajando en [Code Academy Full-Stack Engineer](https://www.codecademy.com/profiles/KarlaGuajardo)
