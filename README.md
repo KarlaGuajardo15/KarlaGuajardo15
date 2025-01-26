@@ -14,9 +14,9 @@
 
  <table>
  <tr>
- <th>Nombre</th>
- <th>Apellido</th>
- <th>Edad</th>
+ <th>Name</th>
+ <th>Lastname</th>
+ <th>Age</th>
  </tr>
  <tr>
    <td>Karla</td>
