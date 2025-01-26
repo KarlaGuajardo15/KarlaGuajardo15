@@ -8,7 +8,7 @@
 
 *I'm a System Enginner and Full Stack Engineer Jr.*
 
-> My Skill are:
+> My Skills are:
 >> HTML, CSS, JavaScript, Git, GitHub, React, Redux, Node.js, Express.js, SQL, PostgreSQL, Web Security, Data Security, Data Structures and Algorithms.
 
 
